@@ -1,0 +1,14 @@
+# TheCritter
+Gra o wirtualnym zwierzaku
+Środowisko Unity
+
+W grze wcielamy się w rolę "trenera" i opiekujemy się zwierzakiem.
+Główne założenia:
+Na początku gry mamy możliwość wyboru jaką postacią bedziemy sie opiekować.
+Stan/nastrój będziemy mogli monitorować poprzez widoczne statystyki jak np. głód/sen/zabawa.
+Statystyki będą zmieniać się w czasie.
+W trakcie gry możemy wchodzić ze zwierzakiem w interakcje.
+Możliwość zakupu modyfikatorów w "sklepie" mających wpływ na statystyki.
+Zdobywanie "wirtualnej waluty" na zakup modyfikatorów poprzez prostą minigre.
+Zdobywanie doświadczenia "trenera", które będzie miało wpływ na zwierzaka.
+Zdarzenia losowe mające wpływ na statystyki zwierzaka
